@@ -13,6 +13,7 @@ There are a few activities which needs to be done once:
 1) under train_models - execute train_word2vec.py to train the model and save it in pickle format
 2) under train_models - execute train_tfidf.py to train the model and save it in pickle format
 3) under train_models - execute train_classifier.py to train the model and save it in pickle format
+
 The Classifier accuracy is around 78% in test dataset.
 
 Once, the above is completed, the models are ready to predict.
