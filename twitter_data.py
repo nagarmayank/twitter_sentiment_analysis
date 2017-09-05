@@ -10,12 +10,6 @@ import time
 #consumer_key = "<insert_your_consumer_key>"
 #consumer_secret = "<insert_your_consumer_secret>"
 
-access_token = "123531856-qsjMjcN8kyc6G3kPJgLVgnvSk5k7h9azYHqnWDBt"
-access_token_secret = "4FdT3sEIGAgdwuoQnWFGvMV7xWwTCnRcCAZZq81TLZP8W"
-consumer_key = "HtmhPNTbaUBZBstn2091CLqJe"
-consumer_secret = "ICfZb1j8pAlS5O5ySaiF5ppZPiX2G6MV0Br5pZM1eGDnvK9WRa"
-
-
 #This is a basic listener that just prints received tweets to stdout.
 class StdOutListener(StreamListener):
 
