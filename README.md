@@ -6,7 +6,7 @@ Basically, there are 4 parts to this:
 3) Using the model for Sentiment CLassification
 4) Using individual sentiments to do Topic Modelling
 
-The training data for Sentiment Classified tweets can be obtained from the below link:
+The training data for Sentiment Classified tweets can be obtained from the below link and keep it under the folder train_data:
 http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
 
 There are a few activities which needs to be done once:
