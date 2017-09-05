@@ -21,3 +21,8 @@ Once, the above is completed, the models are ready to predict.
 Keep running the twitter_data.py in order to collect more samples of data.
 
 Once, everything is done, run all_together.py to classify the tweets into positive and negative sentiments and do a topic modelling on each dataset separately.
+
+# Further Steps:
+1) Improve the classifier by using negation statements
+2) Improve the classifier using n-gram phrases
+3) Use Convolution Neural Network for increased accuracy of the model
